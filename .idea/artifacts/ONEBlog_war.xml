@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ONEBlog:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ONEBlog_war</output-path>
+    <root id="archive" name="ONEBlog_war.war">
+      <element id="artifact" artifact-name="ONEBlog:war exploded" />
+    </root>
+  </artifact>
+</component>
